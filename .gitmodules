@@ -1,0 +1,3 @@
+[submodule "child"]
+	path = child
+	url = https://github.com/sonms0810/gitstudy11_child.git
